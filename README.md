@@ -13,7 +13,7 @@ Hello there! I'm [Your Name], a passionate cybersecurity professional dedicated 
 
 Here are some of the tools and technologies I specialize in, many of which are part of the Kali Linux arsenal:
 
-- ![Kali Linux](icons/kali-linux.png) Kali Linux
+- ![Kali Linux](C:\Users\Karthikeyan V\Downloads\kali1.jpg) Kali Linux
 - ![Nmap](icons/nmap.png) Nmap
 - ![Metasploit](icons/metasploit.png) Metasploit
 - ![Wireshark](icons/wireshark.png) Wireshark
@@ -39,3 +39,4 @@ Here are some of the tools and technologies I specialize in, many of which are p
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) for collaboration opportunities, discussions on cybersecurity trends, or just to connect with like-minded professionals!
 
 Let's make the digital world a safer place together! 🔒💻
+
