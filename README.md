@@ -34,6 +34,6 @@ I am a Cyber Security Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :space_invader: Enthusiast and Cyber Security Researcher :man_technologist:.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I play CTF and Bug Bounty research.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/karthikeyan-v1798/])
