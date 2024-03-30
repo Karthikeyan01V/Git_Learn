@@ -57,4 +57,4 @@ I am a Cyber Security Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan01V
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan01V&theme=dark&background=000000)](https://git.io/streak-stats)
